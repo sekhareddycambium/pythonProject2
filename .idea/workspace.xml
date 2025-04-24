@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="994090a8-84d3-4aab-8456-32c3cc5d8d8c" name="Changes" comment="lab001">
-      <change afterPath="$PROJECT_DIR$/25April.py" afterDir="false" />
+    <list default="true" id="994090a8-84d3-4aab-8456-32c3cc5d8d8c" name="Changes" comment="25th April">
+      <change beforePath="$PROJECT_DIR$/25April.py" beforeDir="false" afterPath="$PROJECT_DIR$/25April.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.25April.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.test01.executor": "Run",
     "Python.testing.executor": "Run",
@@ -84,11 +85,20 @@
       <option name="project" value="LOCAL" />
       <updated>1745522739320</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="25th April">
+      <option name="closed" value="true" />
+      <created>1745522973448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745522973448</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab001" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab001" />
+    <MESSAGE value="25th April" />
+    <option name="LAST_COMMIT_MESSAGE" value="25th April" />
   </component>
 </project>
