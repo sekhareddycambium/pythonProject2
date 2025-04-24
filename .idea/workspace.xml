@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994090a8-84d3-4aab-8456-32c3cc5d8d8c" name="Changes" comment="25th April">
-      <change beforePath="$PROJECT_DIR$/25th.py" beforeDir="false" afterPath="$PROJECT_DIR$/25th.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25th loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.25April.executor": "Run",
+    "Python.25th loops.executor": "Run",
     "Python.25th.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.test01.executor": "Run",
@@ -139,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745524419957</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="25th April">
+      <option name="closed" value="true" />
+      <created>1745524811445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745524811445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
